@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zelinli/CLionProjects/NQueens/N_queens.h
+
+/Users/zelinli/CLionProjects/NQueens/hint.cpp
+iostream
+-
+N_queens.h
+/Users/zelinli/CLionProjects/NQueens/N_queens.h
+
