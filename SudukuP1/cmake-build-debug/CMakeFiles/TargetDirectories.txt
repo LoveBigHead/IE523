@@ -1,0 +1,3 @@
+/Users/zelinli/CLionProjects/SudukuP1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zelinli/CLionProjects/SudukuP1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zelinli/CLionProjects/SudukuP1/cmake-build-debug/CMakeFiles/SudukuP1.dir

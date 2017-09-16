@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zelinli/CLionProjects/SudukuP1/prog2_hint.cpp
+iostream
+-
+prog2_hint.h
+/Users/zelinli/CLionProjects/SudukuP1/prog2_hint.h
+
+/Users/zelinli/CLionProjects/SudukuP1/prog2_hint.h
+vector
+-
+fstream
+-
+set
+-
+
