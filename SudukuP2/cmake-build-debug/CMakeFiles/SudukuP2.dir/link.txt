@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/SudukuP2.dir/Li_Zelin_HW2_P2.cpp.o  -o SudukuP2 
